@@ -7,7 +7,7 @@
 
 <h3 align="center">A guy from the unknown that loves to do anything</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-24&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-24&label=Profile%20views&color=0e75b6&style=flat" alt="freeze9" /> </p>
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
