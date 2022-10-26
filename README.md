@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm Aniket Kumar</h1> -->
+<!-- <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm Freeze</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aniket+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
@@ -11,7 +11,7 @@
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Faris a 1st year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
+<p><i> I'm Faris Muhammad a 1st year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
 
 - 🌱 I’m currently learning **<code>Data Science</code>, <code>Web Development</code>, <code>Cyber Security</code>, <code>Game Development</code>**
 
