@@ -13,9 +13,9 @@
 
 <p><i> I'm Faris Muhammad a 1st year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
 
-- 🌱 I’m currently learning **<code>Data Science</code>, <code>Web Development</code>, <code>Cyber Security</code>, <code>Game Development</code>**
+- 🌱 I’m currently learning **<code>Data Science</code>, <code>Machine Learning</code>, <code>Web Development</code>, <code>Mobile Development</code>**
 
-- 💬 Ask me about **<code>C</code>, <code>C++</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>** 
+- 💬 Ask me about **<code>C</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>, <code>NodeJS</code>, <code>Java</code>, <code>Dart</code>** 
 
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/faris-abdullah-170968248/">LinkedIn</a></code>** **<code>[Gmail](mailto:farismuhammadabd@gmail.com)</code>**
 
