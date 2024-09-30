@@ -11,7 +11,7 @@
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Faris Muhammad a 1st year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
+<p><i> I'm Faris Muhammad a 3rd year Informatics Engineering Undergraduate from Electronic Engineering Polytechnic Institute of Surabaya, Indonesia. I'm just a Tech Enthusiast that loves a new technology and everything that interesting. And also i love to explore and learn about new domains.</i></p>
 
 - 🌱 I’m currently learning **<code>Data Science</code>, <code>Machine Learning</code>, <code>Web Development</code>, <code>Mobile Development</code>**
 
